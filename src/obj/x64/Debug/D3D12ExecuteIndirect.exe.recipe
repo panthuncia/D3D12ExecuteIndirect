@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\matth\Desktop\D3D12ExecuteIndirect\src\bin\x64\Debug\D3D12ExecuteIndirect.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\matth\Desktop\D3D12ExecuteIndirect\src\shaders.hlsl</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\matth\Desktop\D3D12ExecuteIndirect\src\compute.hlsl</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\matth\Desktop\D3D12ExecuteIndirect\src\bin\x64\Debug\shaders.hlsl</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\matth\Desktop\D3D12ExecuteIndirect\src\bin\x64\Debug\compute.hlsl</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
